@@ -1,6 +1,6 @@
 <!-- Profile Header with Animation -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/182490201?s=200&v=4" alt="Peace of Memory" width="500"/>
+  <img src="https://avatars.githubusercontent.com/u/182490201?s=200&v=4" alt="Peace of Memory" width="200"/>
 </p>
 
 <h1 align="center">Welcome to (POM) Peace of Memory 🌟</h1>
