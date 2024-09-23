@@ -24,6 +24,6 @@
 |    노찬영    | Project Lead / Frontend Developer | [@shroqkf](https://github.com/shroqkf)    |
 |    이가연    | Frontend Developer      | [@gayeooon](https://github.com/gayeooon)    |
 |    김홍엽    | Backend Developer       | [@Yeobi00](https://github.com/Yeobi00)    |
-|    이승찬    | Backend Developer       | [GitHub Profile](https://github.com/member4)    |
+|    이승찬    | Backend Developer       | [@chan000518](https://github.com/chan000518)    |
 
 ---
